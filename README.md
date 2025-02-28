@@ -10,4 +10,4 @@ The first step in making sure a bash script runs;
 
 Other Considerations
 --------------------
-There should not be any spaces around the '=' sign.
+-->There should not be any spaces around the '=' sign.
