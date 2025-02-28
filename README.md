@@ -1,7 +1,7 @@
 #!/bin/bash
 -----------
 
-This is Here is My self taught process of learning Bash scripting from scratch.
+This is Here is My self-taught journey of learning Bash scripting from scratch.
 
 The first step in making sure a bash script runs;
         #--> save it as a .sh file
